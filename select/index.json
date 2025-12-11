@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋に落ちるのは簡単で",
+  "base_artist": "Leina",
+  "createdAt": "2025-12-11T16:20:29.681260Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋に落ちるのは簡単で",
+      "artist": "Leina",
+      "has_synced": false,
+      "path": "select/pl_01_恋に落ちるのは簡単で_Leina.txt"
+    }
+  ]
+}
